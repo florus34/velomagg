@@ -1,3 +1,4 @@
 folium
 shapely
 geopandas
+streamlit_folium
