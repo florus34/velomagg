@@ -1,0 +1,48 @@
+{
+  "id": "urn:ngsi-ld:station:001",
+  "type": "BikeHireDockingStation",
+  "address": {
+    "type": "PostalAddress",
+    "value": {
+      "addressCountry": "FR",
+      "addressLocality": "Montpellier",
+      "streetAddress": "Rue Jules Ferry - Gare Saint-Roch"
+    },
+    "metadata": {}
+  },
+  "availableBikeNumber": {
+    "type": "Number",
+    "value": 12,
+    "metadata": {
+      "timestamp": {
+        "type": "DateTime",
+        "value": "2022-10-26T10:35:03.000Z"
+      }
+    }
+  },
+  "freeSlotNumber": {
+    "type": "Number",
+    "value": 9,
+    "metadata": {}
+  },
+  "totalSlotNumber": {
+    "type": "Number",
+    "value": 12,
+    "metadata": {}
+  },
+  "location": {
+    "type": "geo:json",
+    "value": {
+      "type": "Point",
+      "coordinates": [
+        "3.881346 , 43.605366"
+      ]
+    },
+    "metadata": {}
+  },
+  "status": {
+    "type": "Text",
+    "value": "working",
+    "metadata": {}
+  }
+}

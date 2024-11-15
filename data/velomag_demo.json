@@ -1,0 +1,1 @@
+{"id":{"0":"urn:ngsi-ld:station:001"},"type":{"0":"BikeHireDockingStation"},"address":{"0":{"addressCountry":"FR","addressLocality":"Montpellier","streetAddress":"Rue Jules Ferry - Gare Saint-Roch"}},"availableBikeNumber":{"0":12},"freeSlotNumber":{"0":9},"totalSlotNumber":{"0":12},"location":{"0":{"type":"Point","coordinates":[3.881346 , 43.605366]}},"status":{"0":"working"}}
